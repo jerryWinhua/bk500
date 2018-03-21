@@ -1,0 +1,1339 @@
+.container {
+    width: 1041px;
+}
+
+.bk500Img {
+    width: 100%;
+    position: relative;
+    margin: auto;
+    z-index: 1;
+}
+
+#esc {
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 70px;
+    left: 43px;
+    opacity: 0.3;
+    z-index: 1;
+    border-radius: 3px;
+    /* animation: colorChange 30s 0s infinite; */
+}
+
+#f1 {
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 70px;
+    left: 130px;
+    opacity: 0.3;
+    z-index: 1;
+    border-radius: 3px;
+    /* animation: colorChange 30s 0s infinite; */
+}
+
+#f2 {
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 70px;
+    left: 172px;
+    opacity: 0.3;
+    z-index: 1;
+    border-radius: 3px;
+    /* animation: colorChange 30s 0s infinite; */
+}
+
+#f3 {
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 70px;
+    left: 214px;
+    opacity: 0.3;
+    z-index: 1;
+    border-radius: 3px;
+    /* animation: colorChange 30s 0s infinite; */
+}
+
+#f4 {
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 70px;
+    left: 260px;
+    opacity: 0.3;
+    z-index: 1;
+    border-radius: 3px;
+    /* animation: colorChange 30s 0s infinite; */
+}
+
+#f5 {
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 70px;
+    left: 328px;
+    opacity: 0.3;
+    z-index: 1;
+    border-radius: 3px;
+    /* animation: colorChange 30s 0s infinite; */
+}
+
+#f6 {
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 70px;
+    left: 370px;
+    opacity: 0.3;
+    z-index: 1;
+    border-radius: 3px;
+    /* animation: colorChange 30s 0s infinite; */
+}
+
+#f7 {
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 70px;
+    left: 410px;
+    opacity: 0.3;
+    z-index: 1;
+    border-radius: 3px;
+    /* animation: colorChange 30s 0s infinite; */
+}
+
+#f8 {
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 70px;
+    left: 458px;
+    opacity: 0.3;
+    z-index: 1;
+    border-radius: 3px;
+    /* animation: colorChange 30s 0s infinite; */
+}
+
+#f9 {
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 70px;
+    left: 520px;
+    opacity: 0.3;
+    z-index: 1;
+    border-radius: 3px;
+    /* animation: colorChange 30s 0s infinite; */
+}
+
+#f10 {
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 70px;
+    left: 562px;
+    opacity: 0.3;
+    z-index: 1;
+    border-radius: 3px;
+    /* animation: colorChange 30s 0s infinite; */
+}
+
+#f11 {
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 70px;
+    left: 610px;
+    opacity: 0.3;
+    z-index: 1;
+    border-radius: 3px;
+    /* animation: colorChange 30s 0s infinite; */
+}
+
+#f12 {
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 70px;
+    left: 650px;
+    opacity: 0.3;
+    z-index: 1;
+    border-radius: 3px;
+    /* animation: colorChange 30s 0s infinite; */
+}
+
+#print {
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 70px;
+    left: 710px;
+    opacity: 0.3;
+    z-index: 1;
+    border-radius: 3px;
+    /* animation: colorChange 30s 0s infinite; */
+}
+
+#scroll {
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 70px;
+    left: 750px;
+    opacity: 0.3;
+    z-index: 1;
+    border-radius: 3px;
+    /* animation: colorChange 30s 0s infinite; */
+}
+
+#pause {
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 70px;
+    left: 794px;
+    opacity: 0.3;
+    z-index: 1;
+    border-radius: 3px;
+    /* animation: colorChange 30s 0s infinite; */
+}
+
+#perid {
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 140px;
+    left: 43px;
+    opacity: 0.3;
+    z-index: 1;
+    border-radius: 3px;
+    /* animation: colorChange 30s 0s infinite; */
+}
+
+#n1 {
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 140px;
+    left: 88px;
+    opacity: 0.3;
+    z-index: 1;
+    border-radius: 3px;
+    /* animation: colorChange 30s 0s infinite; */
+}
+
+#n2 {
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 140px;
+    left: 130px;
+    opacity: 0.3;
+    z-index: 1;
+    border-radius: 3px;
+    /* animation: colorChange 30s 0s infinite; */
+}
+
+#n3 {
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 140px;
+    left: 172px;
+    opacity: 0.3;
+    z-index: 1;
+    border-radius: 3px;
+    /* animation: colorChange 30s 0s infinite; */
+}
+
+#n4 {
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 140px;
+    left: 215px;
+    opacity: 0.3;
+    z-index: 1;
+    border-radius: 3px;
+    /* animation: colorChange 30s 0s infinite; */
+}
+
+#n5 {
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 140px;
+    left: 259px;
+    opacity: 0.3;
+    z-index: 1;
+    border-radius: 3px;
+    /* animation: colorChange 30s 0s infinite; */
+}
+
+#n6 {
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 140px;
+    left: 303px;
+    opacity: 0.3;
+    z-index: 1;
+    border-radius: 3px;
+    /* animation: colorChange 30s 0s infinite; */
+}
+
+#n7 {
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 140px;
+    left: 345px;
+    opacity: 0.3;
+    z-index: 1;
+    border-radius: 3px;
+    /* animation: colorChange 30s 0s infinite; */
+}
+
+#n8 {
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 140px;
+    left: 390px;
+    opacity: 0.3;
+    z-index: 1;
+    border-radius: 3px;
+    /* animation: colorChange 30s 0s infinite; */
+}
+
+#n9 {
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 140px;
+    left: 433px;
+    opacity: 0.3;
+    z-index: 1;
+    border-radius: 3px;
+    /* animation: colorChange 30s 0s infinite; */
+}
+
+#n0 {
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 140px;
+    left: 477px;
+    opacity: 0.3;
+    z-index: 1;
+    border-radius: 3px;
+    /* animation: colorChange 30s 0s infinite; */
+}
+
+#minus {
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 140px;
+    left: 520px;
+    opacity: 0.3;
+    z-index: 1;
+    border-radius: 3px;
+    /* animation: colorChange 30s 0s infinite; */
+}
+
+#plus {
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 140px;
+    left: 563px;
+    opacity: 0.3;
+    z-index: 1;
+    border-radius: 3px;
+    /* animation: colorChange 30s 0s infinite; */
+}
+
+#bsp {
+    width: 72px;
+    height: 30px;
+    position: absolute;
+    top: 140px;
+    left: 610px;
+    opacity: 0.3;
+    z-index: 1;
+    border-radius: 3px;
+    /* animation: colorChange 30s 0s infinite; */
+}
+
+#insert {
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 140px;
+    left: 710px;
+    opacity: 0.3;
+    z-index: 1;
+    border-radius: 3px;
+    /* animation: colorChange 30s 0s infinite; */
+}
+
+#home {
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 140px;
+    left: 750px;
+    opacity: 0.3;
+    z-index: 1;
+    border-radius: 3px;
+    /* animation: colorChange 30s 0s infinite; */
+}
+
+#pup {
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 140px;
+    left: 796px;
+    opacity: 0.3;
+    z-index: 1;
+    border-radius: 3px;
+    /* animation: colorChange 30s 0s infinite; */
+}
+
+#numlock {
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 140px;
+    left: 853px;
+    opacity: 0.3;
+    z-index: 1;
+    border-radius: 3px;
+    /* animation: colorChange 30s 0s infinite; */
+}
+
+#numdrawn {
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 140px;
+    left: 898px;
+    opacity: 0.3;
+    z-index: 1;
+    border-radius: 3px;
+    /* animation: colorChange 30s 0s infinite; */
+}
+
+#numtimes {
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 140px;
+    left: 940px;
+    opacity: 0.3;
+    z-index: 1;
+    border-radius: 3px;
+    /* animation: colorChange 30s 0s infinite; */
+}
+
+#numminus {
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 140px;
+    left: 982px;
+    opacity: 0.3;
+    z-index: 1;
+    border-radius: 3px;
+    /* animation: colorChange 30s 0s infinite; */
+}
+
+#tab {
+    width: 50px;
+    height: 30px;
+    position: absolute;
+    top: 184px;
+    left: 42px;
+    opacity: 0.3;
+    z-index: 1;
+    border-radius: 3px;
+    /* animation: colorChange 30s 0s infinite; */
+}
+
+#q {
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 184px;
+    left: 110px;
+    opacity: 0.3;
+    z-index: 1;
+    border-radius: 3px;
+    /* animation: colorChange 30s 0s infinite; */
+}
+
+#w {
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 184px;
+    left: 150px;
+    opacity: 0.3;
+    z-index: 1;
+    border-radius: 3px;
+    /* animation: colorChange 30s 0s infinite; */
+}
+
+#e {
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 184px;
+    left: 193px;
+    opacity: 0.3;
+    z-index: 1;
+    border-radius: 3px;
+    /* animation: colorChange 30s 0s infinite; */
+}
+
+#r {
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 184px;
+    left: 236px;
+    opacity: 0.3;
+    z-index: 1;
+    border-radius: 3px;
+    /* animation: colorChange 30s 0s infinite; */
+}
+
+#t {
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 184px;
+    left: 279px;
+    opacity: 0.3;
+    z-index: 1;
+    border-radius: 3px;
+    /* animation: colorChange 30s 0s infinite; */
+}
+
+#y {
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 184px;
+    left: 326px;
+    opacity: 0.3;
+    z-index: 1;
+    border-radius: 3px;
+    /* animation: colorChange 30s 0s infinite; */
+}
+
+#u {
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 184px;
+    left: 370px;
+    opacity: 0.3;
+    z-index: 1;
+    border-radius: 3px;
+    /* animation: colorChange 30s 0s infinite; */
+}
+
+#i {
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 184px;
+    left: 410px;
+    opacity: 0.3;
+    z-index: 1;
+    border-radius: 3px;
+    /* animation: colorChange 30s 0s infinite; */
+}
+
+#o {
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 184px;
+    left: 457px;
+    opacity: 0.3;
+    z-index: 1;
+    border-radius: 3px;
+    /* animation: colorChange 30s 0s infinite; */
+}
+
+#p {
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 184px;
+    left: 497px;
+    opacity: 0.3;
+    z-index: 1;
+    border-radius: 3px;
+    /* animation: colorChange 30s 0s infinite; */
+}
+
+#lqu {
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 184px;
+    left: 542px;
+    opacity: 0.3;
+    z-index: 1;
+    border-radius: 3px;
+    /* animation: colorChange 30s 0s infinite; */
+}
+
+#rqu {
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 184px;
+    left: 584px;
+    opacity: 0.3;
+    z-index: 1;
+    border-radius: 3px;
+    /* animation: colorChange 30s 0s infinite; */
+}
+
+#drawn {
+    width: 50px;
+    height: 30px;
+    position: absolute;
+    top: 184px;
+    left: 630px;
+    opacity: 0.3;
+    z-index: 1;
+    border-radius: 3px;
+    /* animation: colorChange 30s 0s infinite; */
+}
+
+#delete {
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 184px;
+    left: 710px;
+    opacity: 0.3;
+    z-index: 1;
+    border-radius: 3px;
+    /* animation: colorChange 30s 0s infinite; */
+}
+
+#end {
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 184px;
+    left: 750px;
+    opacity: 0.3;
+    z-index: 1;
+    border-radius: 3px;
+    /* animation: colorChange 30s 0s infinite; */
+}
+
+#pdown {
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 184px;
+    left: 798px;
+    opacity: 0.3;
+    z-index: 1;
+    border-radius: 3px;
+    /* animation: colorChange 30s 0s infinite; */
+}
+
+#num7 {
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 184px;
+    left: 854px;
+    opacity: 0.3;
+    z-index: 1;
+    border-radius: 3px;
+    /* animation: colorChange 30s 0s infinite; */
+}
+
+#num8 {
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 184px;
+    left: 899px;
+    opacity: 0.3;
+    z-index: 1;
+    border-radius: 3px;
+    /* animation: colorChange 30s 0s infinite; */
+}
+
+#num9 {
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 184px;
+    left: 940px;
+    opacity: 0.3;
+    z-index: 1;
+    border-radius: 3px;
+    /* animation: colorChange 30s 0s infinite; */
+}
+
+#numplus {
+    width: 28px;
+    height: 72px;
+    position: absolute;
+    top: 184px;
+    left: 984px;
+    opacity: 0.3;
+    z-index: 1;
+    border-radius: 3px;
+    /* animation: colorChange 30s 0s infinite; */
+}
+
+#caps {
+    width: 60px;
+    height: 30px;
+    position: absolute;
+    top: 228px;
+    left: 46px;
+    opacity: 0.3;
+    z-index: 1;
+    border-radius: 3px;
+    /* animation: colorChange 30s 0s infinite; */
+}
+
+#a {
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 228px;
+    left: 117px;
+    opacity: 0.3;
+    z-index: 9;
+    border-radius: 3px;
+    /* animation: colorChange 30s 0s infinite; */
+}
+
+#s {
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 228px;
+    left: 161px;
+    opacity: 0.3;
+    z-index: 9;
+    border-radius: 3px;
+    /* animation: colorChange 30s 0s infinite; */
+}
+
+#d {
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 228px;
+    left: 205px;
+    opacity: 0.3;
+    z-index: 9;
+    border-radius: 3px;
+    /* animation: colorChange 30s 0s infinite; */
+}
+
+#f {
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 228px;
+    left: 249px;
+    opacity: 0.3;
+    z-index: 9;
+    border-radius: 3px;
+    /* animation: colorChange 30s 0s infinite; */
+}
+
+#g {
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 228px;
+    left: 293px;
+    opacity: 0.3;
+    z-index: 9;
+    border-radius: 3px;
+    /* animation: colorChange 30s 0s infinite; */
+}
+
+#h {
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 228px;
+    left: 337px;
+    opacity: 0.3;
+    z-index: 9;
+    border-radius: 3px;
+    /* animation: colorChange 30s 0s infinite; */
+}
+
+#j {
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 228px;
+    left: 381px;
+    opacity: 0.3;
+    z-index: 9;
+    border-radius: 3px;
+    /* animation: colorChange 30s 0s infinite; */
+}
+
+#k {
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 228px;
+    left: 424px;
+    opacity: 0.3;
+    z-index: 9;
+    border-radius: 3px;
+    /* animation: colorChange 30s 0s infinite; */
+}
+
+#l {
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 228px;
+    left: 467px;
+    opacity: 0.3;
+    z-index: 9;
+    border-radius: 3px;
+    /* animation: colorChange 30s 0s infinite; */
+}
+
+#sem {
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 228px;
+    left: 510px;
+    opacity: 0.3;
+    z-index: 9;
+    border-radius: 3px;
+    /* animation: colorChange 30s 0s infinite; */
+}
+
+#quo {
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 228px;
+    left: 554px;
+    opacity: 0.3;
+    z-index: 9;
+    border-radius: 3px;
+    /* animation: colorChange 30s 0s infinite; */
+}
+
+#enter {
+    width: 80px;
+    height: 30px;
+    position: absolute;
+    top: 228px;
+    left: 598px;
+    opacity: 0.3;
+    z-index: 9;
+    border-radius: 3px;
+    /* animation: colorChange 30s 0s infinite; */
+}
+
+#num4 {
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 228px;
+    left: 852px;
+    opacity: 0.3;
+    z-index: 9;
+    border-radius: 3px;
+    /* animation: colorChange 30s 0s infinite; */
+}
+
+#num5 {
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 228px;
+    left: 898px;
+    opacity: 0.3;
+    z-index: 9;
+    border-radius: 3px;
+    /* animation: colorChange 30s 0s infinite; */
+}
+
+#num6 {
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 228px;
+    left: 940px;
+    opacity: 0.3;
+    z-index: 9;
+    border-radius: 3px;
+    /* animation: colorChange 30s 0s infinite; */
+}
+
+#lshift {
+    width: 82px;
+    height: 30px;
+    position: absolute;
+    top: 271px;
+    left: 45px;
+    opacity: 0.3;
+    z-index: 9;
+    border-radius: 3px;
+    /* animation: colorChange 30s 0s infinite; */
+}
+
+#z {
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 271px;
+    left: 140px;
+    opacity: 0.3;
+    z-index: 9;
+    border-radius: 3px;
+    /* animation: colorChange 30s 0s infinite; */
+}
+
+#x {
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 271px;
+    left: 186px;
+    opacity: 0.3;
+    z-index: 9;
+    border-radius: 3px;
+    /* animation: colorChange 30s 0s infinite; */
+}
+
+#c {
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 271px;
+    left: 226px;
+    opacity: 0.3;
+    z-index: 9;
+    border-radius: 3px;
+    /* animation: colorChange 30s 0s infinite; */
+}
+
+#v {
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 271px;
+    left: 270px;
+    opacity: 0.3;
+    z-index: 9;
+    border-radius: 3px;
+    /* animation: colorChange 30s 0s infinite; */
+}
+
+#b {
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 271px;
+    left: 316px;
+    opacity: 0.3;
+    z-index: 9;
+    border-radius: 3px;
+    /* animation: colorChange 30s 0s infinite; */
+}
+
+#n {
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 271px;
+    left: 359px;
+    opacity: 0.3;
+    z-index: 9;
+    border-radius: 3px;
+    /* animation: colorChange 30s 0s infinite; */
+}
+
+#m {
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 271px;
+    left: 400px;
+    opacity: 0.3;
+    z-index: 9;
+    border-radius: 3px;
+    /* animation: colorChange 30s 0s infinite; */
+}
+
+#comma {
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 271px;
+    left: 447px;
+    opacity: 0.3;
+    z-index: 9;
+    border-radius: 3px;
+    /* animation: colorChange 30s 0s infinite; */
+}
+
+#dot {
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 271px;
+    left: 490px;
+    opacity: 0.3;
+    z-index: 9;
+    border-radius: 3px;
+    /* animation: colorChange 30s 0s infinite; */
+}
+
+#qmark {
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 271px;
+    left: 530px;
+    opacity: 0.3;
+    z-index: 9;
+    border-radius: 3px;
+    /* animation: colorChange 30s 0s infinite; */
+}
+
+#rshift {
+    width: 105px;
+    height: 30px;
+    position: absolute;
+    top: 271px;
+    left: 573px;
+    opacity: 0.3;
+    z-index: 9;
+    border-radius: 3px;
+    /* animation: colorChange 30s 0s infinite; */
+}
+
+#up {
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 271px;
+    left: 751px;
+    opacity: 0.3;
+    z-index: 9;
+    border-radius: 3px;
+    /* animation: colorChange 30s 0s infinite; */
+}
+
+#num1 {
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 271px;
+    left: 853px;
+    opacity: 0.3;
+    z-index: 9;
+    border-radius: 3px;
+    /* animation: colorChange 30s 0s infinite; */
+}
+
+#num2 {
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 271px;
+    left: 896px;
+    opacity: 0.3;
+    z-index: 9;
+    border-radius: 3px;
+    /* animation: colorChange 30s 0s infinite; */
+}
+
+#num3 {
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 271px;
+    left: 940px;
+    opacity: 0.3;
+    z-index: 9;
+    border-radius: 3px;
+    /* animation: colorChange 30s 0s infinite; */
+}
+
+#lctrl {
+    width: 50px;
+    height: 30px;
+    position: absolute;
+    top: 313px;
+    left: 43px;
+    opacity: 0.3;
+    z-index: 9;
+    border-radius: 3px;
+    /* animation: colorChange 30s 0s infinite; */
+}
+
+#win {
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 313px;
+    left: 109px;
+    opacity: 0.3;
+    z-index: 9;
+    border-radius: 3px;
+    /* animation: colorChange 30s 0s infinite; */
+}
+
+#lalt {
+    width: 48px;
+    height: 30px;
+    position: absolute;
+    top: 313px;
+    left: 153px;
+    opacity: 0.3;
+    z-index: 9;
+    border-radius: 3px;
+    /* animation: colorChange 30s 0s infinite; */
+}
+
+#space {
+    width: 246px;
+    height: 30px;
+    position: absolute;
+    top: 313px;
+    left: 215px;
+    opacity: 0.3;
+    z-index: 9;
+    border-radius: 3px;
+    /* animation: colorChange 30s 0s infinite; */
+}
+
+#ralt {
+    width: 51px;
+    height: 30px;
+    position: absolute;
+    top: 313px;
+    left: 476px;
+    opacity: 0.3;
+    z-index: 9;
+    border-radius: 3px;
+    /* animation: colorChange 30s 0s infinite; */
+}
+
+#fn {
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 313px;
+    left: 544px;
+    opacity: 0.3;
+    z-index: 9;
+    border-radius: 3px;
+    /* animation: colorChange 30s 0s infinite; */
+}
+
+#book {
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 313px;
+    left: 588px;
+    opacity: 0.3;
+    z-index: 9;
+    border-radius: 3px;
+    /* animation: colorChange 30s 0s infinite; */
+}
+
+#rctrl {
+    width: 47px;
+    height: 30px;
+    position: absolute;
+    top: 313px;
+    left: 632px;
+    opacity: 0.3;
+    z-index: 9;
+    border-radius: 3px;
+    /* animation: colorChange 30s 0s infinite; */
+}
+
+#left {
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 313px;
+    left: 710px;
+    opacity: 0.3;
+    z-index: 9;
+    border-radius: 3px;
+    /* animation: colorChange 30s 0s infinite; */
+}
+
+#down {
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 313px;
+    left: 752px;
+    opacity: 0.3;
+    z-index: 9;
+    border-radius: 3px;
+    /* animation: colorChange 30s 0s infinite; */
+}
+
+#right {
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 313px;
+    left: 794px;
+    opacity: 0.3;
+    z-index: 9;
+    border-radius: 3px;
+    /* animation: colorChange 30s 0s infinite; */
+}
+
+#num0 {
+    width: 73px;
+    height: 30px;
+    position: absolute;
+    top: 313px;
+    left: 852px;
+    opacity: 0.3;
+    z-index: 9;
+    border-radius: 3px;
+    /* animation: colorChange 30s 0s infinite; */
+}
+
+#numdot {
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 313px;
+    left: 940px;
+    opacity: 0.3;
+    z-index: 9;
+    border-radius: 3px;
+    /* animation: colorChange 30s 0s infinite; */
+}
+
+#numenter {
+    width: 30px;
+    height: 75px;
+    position: absolute;
+    top: 271px;
+    left: 986px;
+    opacity: 0.3;
+    z-index: 9;
+    border-radius: 3px;
+    /* animation: colorChange 30s 0s infinite; */
+}
+
+@keyframes colorChange {
+    0% {
+        background-color: purple;
+    }
+    7.7% {
+        background-color: red;
+    }
+    15.4% {
+        background-color: orange;
+    }
+    23.1% {
+        background-color: yellow;
+    }
+    30.8% {
+        background-color: green;
+    }
+    38.5% {
+        background-color: blue;
+    }
+    46.2% {
+        background-color: darkblue;
+    }
+    53.9% {
+        background-color: purple;
+    }
+    61.6% {
+        background-color: red;
+    }
+    69.3% {
+        background-color: orange;
+    }
+    77% {
+        background-color: yellow;
+    }
+    84.7% {
+        background-color: green;
+    }
+    92.4% {
+        background-color: blue;
+    }
+    100% {
+        background-color: darkblue;
+    }
+}
+
+@keyframes breath {
+    0% {
+        background-color: transparent;
+    }
+    10% {
+        background-color: red;
+    }
+    20% {
+        background-color: transparent;
+    }
+    30% {
+        background-color: orange;
+    }
+    40% {
+        background-color: transparent;
+    }
+    50% {
+        background-color: green;
+    }
+    60% {
+        background-color: transparent;
+    }
+    70% {
+        background-color: blue;
+    }
+    80% {
+        background-color: transparent;
+    }
+    90% {
+        background-color: purple;
+    }
+    100% {
+        background-color: transparent;
+    }
+}
